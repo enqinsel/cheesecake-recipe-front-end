@@ -12,6 +12,6 @@ Benim hazırladığım ödev ise şu şekilde son buldu:
 
 ![website-görüntüsü](https://user-images.githubusercontent.com/76450122/151608626-b9d0ca1d-419d-4100-b43b-c2758634bfca.png)
 
-[Cheesecake Recipe Web Site](https://enqinsel-cheesecakerecipe.netlify.app)
+[Cheesecake Recipe Web Site Tıklayınız](https://enqinsel-cheesecakerecipe.netlify.app)
 
 İncelediğiniz için Teşekkür Ederim :)
