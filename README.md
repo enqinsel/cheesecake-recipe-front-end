@@ -6,7 +6,7 @@
 
 ---
 
-Bu ödevde Semantic HTML ve bildiğim kadarıyla inline CSS kullandım.
+Bu ödevde Semantic HTML ve inline CSS kullandım.
 
 Benim hazırladığım ödev ise şu şekilde son buldu:
 
